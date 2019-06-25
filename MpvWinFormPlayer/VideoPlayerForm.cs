@@ -11,7 +11,7 @@ using VisualEffects.Animations.Effects;
 using VisualEffects.Animators;
 using VisualEffects.Easing;
 
-//TODO: Fix a bunch of layout stuff. Mouse movements do not appear to be captured.
+//TODO: Fix a bunch of layout stuff. Mouse movements do not appear to be captured.//
 namespace MpvWinFormPlayer
 {
     public partial class VideoPlayerForm : Form
