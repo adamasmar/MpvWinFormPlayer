@@ -1,2 +1,2 @@
 # MpvWinFormPlayer
-A WinForm video player that I wish I had when I was on a deadline that one time. Perhaps you will find it useful? 🤷‍♀️
+Thanks to @Hudec117 (https://github.com/hudec117/Mpv.NET.lib) for the guts of this. Perhaps you will find it useful? 🤷‍♀️
